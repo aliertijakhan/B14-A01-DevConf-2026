@@ -9,7 +9,6 @@
     width: 90%;
     max-width: 1200px;
     margin:0 auto;
-
 }
 
 /* navbar styles */
@@ -285,3 +284,30 @@ img {
     color: #4B5563;
     line-height: 26px;
 }
+
+
+/* footer styles */
+.footer {
+    padding: 40px 0 20px;
+    background-color: #111827;
+}
+.footer-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-social i{
+    color: white;
+    font-size: 22px;
+}
+.footer-social ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.copyright{
+    margin-top: 10px;
+    color: white;
+}
+
+
