@@ -127,5 +127,10 @@ img {
     font-weight: bold;
     margin: 20px;
 }
+.label{
+    color: #2563EB;
+    font-weight:600;
+    font-size: 12px;
+}
 
 /* secure spot section styles */
